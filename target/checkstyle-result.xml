@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
 <file name="C:\Users\lenin\Desktop\Taller  2 Software II\CodingStandardsSI2\src\main\java\labcodingstandards\Calculator.java">
-<error line="1" severity="error" message="Line does not match expected header line of &apos;// Copyright (C) 2020&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
 </file>
 </checkstyle>
