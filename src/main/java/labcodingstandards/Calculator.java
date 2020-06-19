@@ -1,3 +1,7 @@
+/*******************************************************************************
+* Copyright (c) 2020
+* All rights reserved.
+*******************************************************************************/
 //
 //
 
@@ -10,7 +14,6 @@ import java.util.Scanner;
  * Engineering Software's Workshop and we need to apply standards for this code.
  * Principal class of the system
  * @author lenin
- *
  */
 public class Calculator {
     /**
